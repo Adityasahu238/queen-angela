@@ -64,7 +64,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 ----
 
   <p align="center">
-  <a href="https://github.com/zim-bot/queen-angela">
+  <a href="https://github.com/Adityasahu238/queen-angela">
     
 <a href="https://github.com/zim-bot/followers">
 <img src="https://img.shields.io/github/repo-size/zim-bot/queen-angela?color=green&label=Repo%20total%20size&style=plastic">
